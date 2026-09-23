@@ -50,19 +50,19 @@ logger = logging.getLogger(__name__)
 # ─── Configuration ───
 # Keep credentials out of the source archive. Set BOT_TOKEN (or
 # TELEGRAM_BOT_TOKEN) in the deployment environment.
-BOT_TOKEN = os.environ.get("BOT_TOKEN") or os.environ.get("TELEGRAM_BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("8996328343:AAGH1K4gVNfPkgAsRVFPxCqaKMoO-cy1dpY") or os.environ.get("TELEGRAM_BOT_TOKEN", "")
 
 # ─── Owner IDs (hardcoded di SC) ───
 # Pisahkan dengan koma jika lebih dari 1 owner, contoh: ["123456789", "987654321"]
-OWNER_IDS = ["8732301483","8772990252"]
+OWNER_IDS = ["7770105316","8772990252"]
 
-MAIN_CHANNEL     = "@DynamiteOtp_Grub"
-MAIN_CHANNEL_URL = "https://t.me/DynamiteOtp_Grub"
-MAIN_CHANNEL_ID  = -1004292040500
-CHAT_GROUP       = "https://t.me/DynamiteOtp_Grub"
-CHAT_GROUP_ID    = -1004292040500
-OTP_GROUP        = "https://t.me/DynamiteOtp_Grub"
-OTP_GROUP_ID     = -1004292040500
+MAIN_CHANNEL     = "@lentfile"
+MAIN_CHANNEL_URL = "https://t.me/lentfile"
+MAIN_CHANNEL_ID  = -1003820329426
+CHAT_GROUP       = "https://t.me/+KOnfBEknJMBmNDQ1"
+CHAT_GROUP_ID    = -1004302965917
+OTP_GROUP        = "https://t.me/+KOnfBEknJMBmNDQ1"
+OTP_GROUP_ID     = -1004302965917
 
 # ─── OTP Backlog Guard ───
 # Setelah bot restart/start, Telegram bisa mengirim ulang pesan OTP lama yang
