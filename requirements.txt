@@ -1,0 +1,7 @@
+python-telegram-bot==21.10
+aiohttp==3.10.11
+requests==2.32.3
+urllib3==2.2.3
+beautifulsoup4==4.12.3
+openpyxl==3.1.5
+pyotp==2.9.0

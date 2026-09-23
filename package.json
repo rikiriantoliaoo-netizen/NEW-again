@@ -1,0 +1,11 @@
+{
+  "name": "nexion-number-bot",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "express": "^4.19.2",
+    "pino": "^9.3.2",
+    "qrcode": "^1.5.3"
+  }
+}

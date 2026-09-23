@@ -1,0 +1,37 @@
+{
+  "defaultNumberCount": 10,
+  "cooldownSeconds": 5,
+  "requireVerification": true,
+  "minWithdraw": 50,
+  "defaultOtpPrice": 0.25,
+  "otpSearchWindowMinutes": 5,
+  "otpSearchScope": "bot",
+  "withdrawMethods": [
+    "bKash",
+    "Nagad"
+  ],
+  "withdrawEnabled": true,
+  "referralCommission": 10,
+  "stockNotifyUsers": false,
+  "featureToggles": {
+    "getnumber": true,
+    "getfile": true,
+    "cariotp": true,
+    "tempmail": true,
+    "twofa": true,
+    "balance": true,
+    "referral": true,
+    "support": true,
+    "cek_bio_wa": true,
+    "fix_merah": true
+  },
+  "showCountOnCountryBtn": true,
+  "cek_bio_wa_url": "https://t.me/yourbotname",
+  "fix_merah_url": "https://t.me/yourbotname",
+  "hidden_number_mask": "🚫",
+  "hidden_number_mask_id": "5462882007451185227",
+  "mask_prefix_digits": 4,
+  "mask_suffix_digits": 4,
+  "autoDeleteOtpEnabled": false,
+  "autoDeleteOtpMinutes": 5
+}

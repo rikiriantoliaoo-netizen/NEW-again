@@ -1,0 +1,35 @@
+{
+  "groups": [
+    "-1003809122204"
+  ],
+  "template": {
+    "name": "BY YUMA PREMIUM",
+    "text": "{flag} #{iso} {svc_icon} {number_masked} Prefix: {prefix} #{lang_short}",
+    "buttons": [
+      {
+        "type": "copy",
+        "label": "OTP",
+        "value": "{otp}",
+        "style": "primary",
+        "icon_id": "5465443379917629504"
+      },
+      {
+        "type": "sep"
+      },
+      {
+        "type": "link",
+        "label": "FILE",
+        "value": "https://t.me/+irZ4EeLuj91iNjg9",
+        "style": "success",
+        "icon_id": "5454113432284446338"
+      },
+      {
+        "type": "link",
+        "label": "CHANNEL",
+        "value": "https://t.me/pr1nceyumaa",
+        "style": "success",
+        "icon_id": "5229011542011299168"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "whatsapp": {
+    "name": "WhatsApp",
+    "icon": "📱"
+  },
+  "telegram": {
+    "name": "Telegram",
+    "icon": "✈️"
+  },
+  "facebook": {
+    "name": "Facebook",
+    "icon": "📘"
+  },
+  "instagram": {
+    "name": "Instagram",
+    "icon": "📸"
+  },
+  "google": {
+    "name": "Google",
+    "icon": "🔍"
+  },
+  "verification": {
+    "name": "Verification",
+    "icon": "✅"
+  },
+  "other": {
+    "name": "Other",
+    "icon": "🔧"
+  },
+  "apple": {
+    "name": "Apple",
+    "icon": "🍎"
+  },
+  "bitget": {
+    "name": "Bitget",
+    "icon": "💹"
+  },
+  "discord": {
+    "name": "Discord",
+    "icon": "🎮"
+  },
+  "imo": {
+    "name": "IMO",
+    "icon": "📞"
+  },
+  "lazada": {
+    "name": "Lazada",
+    "icon": "🛍️"
+  },
+  "microsoft": {
+    "name": "Microsoft",
+    "icon": "🪟"
+  },
+  "netflix": {
+    "name": "Netflix",
+    "icon": "🎬"
+  },
+  "shopee": {
+    "name": "Shopee",
+    "icon": "🛒"
+  },
+  "snapchat": {
+    "name": "Snapchat",
+    "icon": "👻"
+  },
+  "tiktok": {
+    "name": "TikTok",
+    "icon": "🎵"
+  },
+  "tinder": {
+    "name": "Tinder",
+    "icon": "🔥"
+  },
+  "twitter": {
+    "name": "Twitter/X",
+    "icon": "🐦"
+  },
+  "wechat": {
+    "name": "WeChat",
+    "icon": "💬"
+  },
+  "xiaomi": {
+    "name": "Xiaomi",
+    "icon": "📱"
+  }
+}
