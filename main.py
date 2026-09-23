@@ -50,7 +50,7 @@ logger = logging.getLogger(__name__)
 # ─── Configuration ───
 # Keep credentials out of the source archive. Set BOT_TOKEN (or
 # TELEGRAM_BOT_TOKEN) in the deployment environment.
-BOT_TOKEN = os.environ.get("8996328343:AAGH1K4gVNfPkgAsRVFPxCqaKMoO-cy1dpY") or os.environ.get("TELEGRAM_BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("8996328343:AAGH1K4gVNfPkgAsRVFPxCqaKMoO-cy1dpY") or os.environ.get("8996328343:AAGH1K4gVNfPkgAsRVFPxCqaKMoO-cy1dpY", "")
 
 # ─── Owner IDs (hardcoded di SC) ───
 # Pisahkan dengan koma jika lebih dari 1 owner, contoh: ["123456789", "987654321"]
